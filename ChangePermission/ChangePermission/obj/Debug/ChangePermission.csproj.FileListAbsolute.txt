@@ -1,0 +1,9 @@
+c:\users\adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\bin\Debug\ChangePermission.exe.config
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\bin\Debug\ChangePermission.exe
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\bin\Debug\ChangePermission.pdb
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csprojResolveAssemblyReference.cache
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.Properties.Resources.resources
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csproj.GenerateResource.Cache
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.exe
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.pdb
+C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.ChangePermission.resources
