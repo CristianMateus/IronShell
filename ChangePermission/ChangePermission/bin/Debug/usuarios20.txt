@@ -1,10 +1,15 @@
+ChangePermission.exe
+ChangePermission.exe.config
+ChangePermission.pdb
+ChangePermission.vshost.exe
+ChangePermission.vshost.exe.config
+usuarios20.txt
 Administrador
-Camilo
-Camilo Gomez
-MSSQLSERVER
-PRUEBA1
+cristianmf
+dianaMS
+digital
+felipep
+hectorc
+juant
+omarp
 Public
-USUARIADMON
-USUARIO1
-USUARIO2
-UsuarioDePrueba

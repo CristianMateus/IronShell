@@ -17,3 +17,13 @@ D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermissio
 D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csproj.CoreCompileInputs.cache
 D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.exe
 D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.pdb
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\bin\Debug\ChangePermission.exe.config
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\bin\Debug\ChangePermission.exe
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\bin\Debug\ChangePermission.pdb
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csprojAssemblyReference.cache
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\obj\Debug\ChangePermission.ChangePermission.resources
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\obj\Debug\ChangePermission.Properties.Resources.resources
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csproj.GenerateResource.cache
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csproj.CoreCompileInputs.cache
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\obj\Debug\ChangePermission.exe
+C:\Users\cristianmf\Documents\Misclealleanous\Projects\IronShell.git\ChangePermission\ChangePermission\obj\Debug\ChangePermission.pdb

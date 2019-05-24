@@ -22,9 +22,9 @@ namespace ChangePermission
             ProcessShell usuarios = new ProcessShell();
             
             // se cre objeto de tipo Proces, y se envia al metodo Start de la clase Process la ruta y el nombre del .bat
-            Process proc = Process.Start(@"C:\\Users\\Camilo Gomez\\Desktop\\usuarios3.bat");
+            Process proc = Process.Start(@"C:\\Users\\cristianmf\\Documents\\Misclealleanous\\obtenerUsuarios.bat");
 
-            //Codigo del bat para obtner usuarios: 
+            //Codigo del bat para obtner usuarios: C:\Users\cristianmf\Documents\Misclealleanous>
             // @echo off
             //Dir / b C: \Users > usuarios20.txt
 
