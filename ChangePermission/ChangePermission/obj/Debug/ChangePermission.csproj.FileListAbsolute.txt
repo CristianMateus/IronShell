@@ -7,3 +7,13 @@ C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\
 C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.exe
 C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.pdb
 C:\Users\Adminc6a242927e\documents\visual studio 2015\Projects\ChangePermission\ChangePermission\obj\Debug\ChangePermission.ChangePermission.resources
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\bin\Debug\ChangePermission.exe.config
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\bin\Debug\ChangePermission.exe
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\bin\Debug\ChangePermission.pdb
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csprojAssemblyReference.cache
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.ChangePermission.resources
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.Properties.Resources.resources
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csproj.GenerateResource.cache
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.csproj.CoreCompileInputs.cache
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.exe
+D:\ProyectoSistemasO\ChangePermission\ChangePermission\obj\Debug\ChangePermission.pdb

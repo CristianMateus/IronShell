@@ -17,6 +17,7 @@ namespace ChangePermission
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ChangePermission());
+
         }
     }
 }
